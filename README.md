@@ -104,17 +104,6 @@ predict_halal_status("SABINA")                    → "Halal"
 
 ---
 
-## 📦 Project Structure
-
-```bash
-.
-├── model.ipynb             # Main Jupyter Notebook
-├── README.md               # This document
-└── requirements.txt        # Python dependencies (optional)
-```
-
----
-
 ## 🔮 Future Improvements
 
 * Improve classifier with deep learning models (BERT, LSTM)
